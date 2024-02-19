@@ -33,8 +33,8 @@ Usage: main.py [nmap_file] (--help)
 
 ## Screenshots
 ### Graph View
-<img src="graph-view.png" width=75% height=75%>
+<img src="graph-view.png" width=100% height=100%>
 
 
 ### Host View
-<img src="host-details.png" width=40% height=40%>
+<img src="host-details.png" width=60% height=60%>
